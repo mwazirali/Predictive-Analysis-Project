@@ -1,14 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  2 11:27:48 2019
-
-@author: franc
-"""
-#import os
-#get current directory
-#cwd = os.getcwd()
-#print(cwd)
-#os.chdir('C:/Users/franc/Documents/SEM III UHD/Predictive Analytics/PYTHON/')
+# This code below is a copy paste of the code for different models utilized to explore the best prediction of white blood cell identification.
+# It was a an amazing explorative journey where we learned much about the power of different feature based and CNN models.
 
 #----------------------------Get Data_augemented dataset----------
 
